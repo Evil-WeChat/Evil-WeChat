@@ -7,4 +7,4 @@
 
   Backup - https://github.com/Evil-WeChat/Evil-WeChat/tree/main/events/2021-Block/1/
 
-- [用户生命面临危险，腾讯回复及其冷淡](https://github.com/Evil-WeChat/Evil-WeChat/tree/main/events/2021-Block/2/)
+- [用户维权无果，发微博并配图割腕，腾讯回复及其冷淡](https://github.com/Evil-WeChat/Evil-WeChat/tree/main/events/2021-Block/2/)
