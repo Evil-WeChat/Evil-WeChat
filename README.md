@@ -19,6 +19,6 @@
 - 尽可能的保证引用资料的可信度和客观性。
 - 尽可能的隐藏自己的真实身份，做最坏的打算。
 - 尽可能的隐藏自己的真实身份，避免使用自己的真实 GitHub 账号提交 Issue 和 PR，做最坏的打算。
-- 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到evil-wechat-public@protonmail.com
-- Our PGP PUBLIC KEY: https://github.com/Evil-WeChat/PGP/
+- 如果不想通过 GitHub 在线的方式贡献，可以发送相关内容到 [evil-wechat-public@protonmail.com](evil-wechat-public@protonmail.com)
+- Our PGP PUBLIC KEY: [https://github.com/Evil-WeChat/PGP/](https://github.com/Evil-WeChat/PGP/)
 - 目前维护人力不足，如果有兴趣参与维护，可以发送 GitHub 账号到上面的邮箱。
